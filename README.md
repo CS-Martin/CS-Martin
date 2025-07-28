@@ -8,9 +8,9 @@
 ## 💫 About Me
 
 - 🔭 Currently working on **Lendr** — a blockchain application for NFT lending
-- 👯 Looking to collaborate on **open-source projects**, especially in AI, infra, and devtools
-- 🤝 Open to mentorship or help in **DevOps** and **System Monitoring**
-- 🌱 Actively learning **Docker**, **CI/CD**, **System Administration**, and **Kubernetes**
+- 👯 Looking to collaborate on **open-source projects**, especially in infra and devtools
+- 🤝 Open to mentorship or help in **DevOps** and **Sys Admin**
+- 🌱 Actively learning **Docker**, **CI/CD**, **Sys Admin**, and **Kubernetes**
 - 💬 Ask me anything about **Fullstack Web Development**
 
 ---
