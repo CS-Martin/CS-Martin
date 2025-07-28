@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Martin Edgar Atole
+# 👋 Hello, I'm Martin Edgar 
 
 🎓 BS in Computer Science | 💻 Fullstack Developer | ⚙️ DevOps Learner  
 📍 Philippines | 🌐 [www.martinatole.com](https://www.martinatole.com)
